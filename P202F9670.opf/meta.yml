@@ -1,0 +1,327 @@
+id: P202F9670
+initial_creation_type: input
+source_metadata:
+  title: Longchen Nyingtik Series
+  language: zh
+  description: 'Texts related to the Longchen Nyingtik (klong chen snying thig, Heart
+    Essence of the Vast Expanse) cycle revealed by Rigdzin Jigme Lingpa (1729/30–1798):'
+  volume:
+    532fbb3da4f347868b30bf2de7871be1:
+      title: 'The Vidyādharas'' Words of Truth: An Aspiration Connected with the Stages
+        of the Path of the Three Roots, from the Heart Essence of the Vast Expanse'
+      parent: Aspiration Prayers
+    a18a6c17c16745bf8517f6138be4e83f:
+      title: An Aspiration for the Final Age
+      parent: Aspiration Prayers
+    c89867fe6ccf46c09c1e7d5065e9d085:
+      title: 'Entering the City of Omniscience: An Aspiration Prayer for Actualizing
+        Words of Truth'
+      parent: Aspiration Prayers
+    93b2e74305f64a27bdcc613f20dcbb73:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      parent: Aspiration Prayers
+    f605a713a51e40fa93a81101c5cda366:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      parent: Aspiration Prayers
+    6d57bd2d70a4421e80dfeeba3734d7db:
+      title: 'The Single Oceanic Wisdom: An Aspiration to Recognise the Bardos'
+      parent: Aspiration Prayers
+    12e19d87def44eabb57fe7ba82c4619a:
+      title: Training in the Pure Realms of the Three Kāyas
+      parent: Aspiration Prayers
+    f3b5f61b1ce246d59f98f7edb7ee661b:
+      title: 'A Torch for the Path to Omniscience: A Word by Word Commentary to the
+        Longchen Nyingtik Ngöndro'
+      parent: Commentaries
+    d6eeebb33f604868b49430a59c7e5e49:
+      title: 'Illuminating the Excellent Path to Omniscience: Notes on the Longchen
+        Nyingtik Ngöndro'
+      parent: Commentaries
+    2130c6a1c53f4d7b899bf823a459c1d7:
+      title: 'The Casket of Siddhis: A Recitation Manual for “Vidyādhara Assembly”
+        (Rigdzin Düpa)'
+      parent: Commentaries
+    ad0b70096fad439c829d7f0ef8bfab16:
+      title: 'The Prayer of the Ground, Path & Fruition from the Heart-Essence of
+        the Vast Expanse:'
+      parent: Commentaries
+    47145b1dbc7b49478e809f4fcfcbd630:
+      title: Brief Guide to the Stages of Visualization for the Ngöndro Practice
+      parent: Commentaries
+    f203afb0ff784351a9c6f0587c5d26f4:
+      title: Commentary on Vajra Verses on the Natural State
+      parent: Commentaries
+    a333e93efdac46d0a3e8ef02f5e1533b:
+      title: The Spontaneous Vajra Song of Fulfilment and Confession
+      parent: Confession
+    784d1cf1a9c14a3e8b84e7aecb343dfe:
+      title: A Practice of Fulfilment and Confession to an Ocean of Oath-bound Protectors
+      parent: Dharma Protectors
+    e24e77f53d1341469884ea5ebea2e549:
+      title: 'The Refined Essence of Compassion: A Daily Sādhana for the Natural Liberation
+        of Suffering, the Secret Practice of the Great Compassionate One'
+      parent: Dukngal Rangdrol
+    20c8b560c45e4cc0b7d438b61f47bfa2:
+      title: Detailed Visualization of the Great Compassionate One’s Retinue
+      parent: Dukngal Rangdrol
+    7c666b947135427889d23f73c3833e9a:
+      title: 'The Excellent Path to Perfect Liberation: A Guidance Practice (Nedren)
+        for the Dukngal Rangdrol (Natural Liberation of Suffering) Practice of the
+        Great Compassionate One from the Longchen Nyingtik'
+      parent: Dukngal Rangdrol
+    a9059c7e91ed482588ea8f1b0de3a08d:
+      title: 'The Source of Abundant Merit: A Feast-Offering for the Secret Practice
+        of the Great Compassionate One, Natural Liberation of Suffering from The Heart
+        Essence of the Vast Expanse'
+      parent: Dukngal Rangdrol
+    a1660cb3c0854923800f7f6c9416a627:
+      title: The Visualization of the Four Goddesses of the Great Compassionate One,
+        Natural Liberation of Suffering
+      parent: Dukngal Rangdrol
+    dca1c5e837fb4afa83ff9c6a69d878b9:
+      title: A Sādhana of Hayagrīva’s Assembly, from the Heart-Essence of the Vast
+        Expanse
+      parent: Dukngal Rangdrol
+    464cf7e919e74334a207e13a16d7351b:
+      title: 'The Loud Drum of Spring: A Commentary on the Difficult Points of the
+        Ritual of the Great Compassionate One, Natural Liberation of Suffering'
+      parent: Dukngal Rangdrol
+    c8ffc37cb4e44011859d6b83daef12b6:
+      title: The Secret Practice of the Great Compassionate One, Natural Liberation
+        of Suffering
+      parent: Dukngal Rangdrol
+    9913e0f8753b4f38a596b5d065194cdd:
+      title: 'The Vision: A Prayer to Ārya Avalokiteśvara'
+      parent: Dukngal Rangdrol
+    7280769ed5fd442fbce79b59a206c77e:
+      title: Vajra Verses on the Natural State
+      parent: Dzogchen
+    fb298023f7b1419c80290b4d3878843a:
+      title: The Root Empowerment of the Vase Conferring Majesty from the Heart-Essence
+        of the Vast Expanse
+      parent: Empowerment
+    864f5d9bd9c244e9a9371d189b425583:
+      title: A Prayer Invoking the Benefits of the Festival of the Tenth Day
+      parent: Guru Rinpoche Prayers
+    4759ff20cdd74377ac3f0cf5a24bd80c:
+      title: A Prayer of Devotion, to Make the Tears Fall
+      parent: Guru Rinpoche Prayers
+    7d645fa56d1d427686c9e760b1c27c86:
+      title: Guru Yoga of Rigdzin Jigme Lingpa
+      parent: Guru Yoga
+    580cce7eb32741d2ab2dd1cc40b55a5e:
+      title: Sādhana of the Great Master Vairotsana
+      parent: Guru Yoga
+    8b5e3237b2c743b9b4df20f01b99af6b:
+      title: 'The Wish-Fulfilling Jewel: The Outer Practice of Guru Yoga from the
+        Heart-Essence of the Vast Expanse'
+      parent: Guru Yoga
+    90656a42068a43dbbf6a092ebf0088e7:
+      title: 'Beautiful Clouds of Blessings: A Prayer to the Lineage Masters of the
+        Heart Essence of the Vast Expanse from the Great Perfection'
+      parent: Lineage Prayers
+    8aa304db7f73449eabec6ed3ced4330b:
+      title: Supplication to the Lineage of the Heart Essence of the Vast Expanse
+      parent: Lineage Prayers
+    1348f1b7eb8d47c1aad730fe95ff079d:
+      title: 'Rain of Siddhis: A Prayer to the Lineage of Rigdzin Düpa'
+      parent: Lineage Prayers
+    9b0304f06793442fa8d7a1569efa4f5a:
+      title: 'A Constant Stream of Blessings: A Prayer to the Eight Supreme Vidyādharas
+        of India'
+      parent: Lineage Prayers
+    ad8941d8e0e340f6bfedb54c9e765667:
+      title: The Brief Ḍākinī Prayer
+      parent: Lineage Prayers
+    4e08f11e51ce4afc83c9c3e02a86aa90:
+      title: The Source of Accomplishment, the Fruit of the Two-Fold Truth—A Prayer
+        to the Wisdom Ḍākinī Dechen Gyalmo
+      parent: Lineage Prayers
+    a3a32c3004a14c47b2e11dc8e784c883:
+      title: Supplement to the Longchen Nyingtik Lineage Prayer
+      parent: Lineage Prayers
+    d1adbd113d2342b09bf2ac263cb1a673:
+      title: 'A Shower of Great Bliss: A Lineage Prayer for the Guru Yoga based on
+        Vajrasattva'
+      parent: Lineage Prayers
+    f48b18e999fd49deadf60d3b6c6c9b3c:
+      title: 'Source of Magnificent Blessing: A Prayer to the Lineage of the Secret
+        Practice of the Great Compassionate One, Natural Liberation of Suffering'
+      parent: Lineage Prayers
+    2bfea26fb18447ef86ed9fba6cf53106:
+      title: 'The Shower of Great Bliss: A Prayer to the Lineage of the Female Awareness-Holder
+        (Yumka)'
+      parent: Lineage Prayers
+    5d1590e859e942839cd6a19ebf8e12a2:
+      title: Palchen Düpa Lineage Prayer
+      parent: Lineage Prayers
+    cc45495828f645e4b3bfb8230ce12aee:
+      title: 'The Continuous Shower of Blessings: A Prayer to the Lineage of the Great
+        Perfection’s Heart-Essence of the Vast Expanse (Dzogpachenpo Longchen Nyingtik)'
+      parent: Lineage Prayers
+    b252e712a6fe4ddb9c45e29013a4f2cf:
+      title: The Prayer for the Wrathful Guru Takhyung Barwa from the Heart Essence
+        of the Vast Expanse
+      parent: Lineage Prayers
+    a83bc7fec5d941dcb0dc6e281ea19836:
+      title: 'The Excellent Path to Omniscience: The Dzogchen Preliminary Practice
+        of Longchen Nyingtik'
+      parent: Ngöndro
+    c82423163c6145d3a90abe26a565393d:
+      title: 'A Profound Concentration of Nectar: Essentialized Stages of Visualization
+        for the Preliminary Practices of the Heart Essence of the Vast Expanse (Longchen
+        Nyingtik)'
+      parent: Ngöndro
+    d2f3ed84cd574e0494377eb1f938ed1d:
+      title: 'The Offering Clouds of the Indestructible Ladies of Sound: Concise Garland
+        of Offerings of the Sixteen Vajra Goddesses'
+      parent: Offerings
+    261b791b6b814b63b289025ca4137eb0:
+      title: The Essential Activity Manual for the Awesome Ones’ Assembly, the Heart
+        Practice of Vidyādharas, from the Heart Essence of the Vast Expanse
+      parent: Palchen Düpa
+    7cf904cd84624a728c1bcd9b69a50311:
+      title: 'The Single Mudrā: A Daily Practice for the Awesome Ones’ Assembly (Palchen
+        Düpa), the Heart Practice of the Awareness-Holders'
+      parent: Palchen Düpa
+    52b9af75fd124c9d8ff639db957c6f88:
+      title: Awesome Ones’ Assembly (Palchen Düpa), the Heart Practice of the Awareness-Holders
+      parent: Palchen Düpa
+    90eebdbb832e4fa19382e124033490c0:
+      title: Descent of Blessings of the Eight Vidyādharas
+      parent: Palchen Düpa
+    ba08ee7cc45c44db8f315381af5a280a:
+      title: 'The Words of the Awesome Ones: A General Overview of the Three Yogas
+        from the Heart-Essence of the Vast Expanse'
+      parent: Palchen Düpa
+    5c99b8c095df4298b76cf9a0db464188:
+      title: A Prayer Recalling the Life and Liberation of the Great Perfection Adept
+        Rangjung Dorje (‘Naturally Arisen Vajra’), Jigme Lingpa
+      parent: Prayers
+    1103e98b42134823846335f9d2066865:
+      title: Prayer to Rigdzin Jigme Lingpa Invoking His Previous Incarnations
+      parent: Prayers
+    69daf9fb48e44fec86e010631dfb7b7d:
+      title: 'Shower of Indestructible Splendour: A Self-Initiation for the Guru Practice
+        of the Vidyādhara Assembly, from the Heart-Essence of the Vast Expanse'
+      parent: Rigdzin Düpa
+    b5cf6586cca344d5b5d216d6fb27f8ea:
+      title: Rigdzin Düpa Amṛta Offering
+      parent: Rigdzin Düpa
+    d259a651908247758d0847548344c26f:
+      title: A Brief Practice of Consecrating Amṛta for the Vidyādhara Assembly
+      parent: Rigdzin Düpa
+    4abe9bbbe5f6481f8846e44d7d1b998e:
+      title: 'The Vajra Lute: A Brief Fulfilment for the Guru Practice of Vidyādhara-Assembly'
+      parent: Rigdzin Düpa
+    900b0c00b4c54c8c919524ed8b374933:
+      title: 'A Glimpse of the Crucial Points: The Vidyādhara''s Manual of Concealed
+        Instructions'
+      parent: Rigdzin Düpa
+    c4183b23619242f0a2590ecebb35b0b0:
+      title: 'The Vase of Immortal Life: The Long-Life Practice of the Vidyādharas,
+        from the Heart Essence of the Vast Expanse'
+      parent: Rigdzin Düpa
+    2ff4ba2faa6c4c948038cfe633476822:
+      title: The Vidyādhara Assembly (Rigdzin Düpa), the Inner Practice from the Heart
+        Essence of the Vast Expanse
+      parent: Rigdzin Düpa
+    0c76bc01cddd46589da6cc28c95056bd:
+      title: 'Skull Fragments: The Root Tantra of the Vidyādharas'
+      parent: Root Tantra
+    73917e1c4321416f8ac6ab4ea56b47dd:
+      title: 'The Blissful Path of Action Tantra: A Ritual for Taking the One-Day
+        Vows of a Lay Practitioner'
+      parent: Sojong
+    cf73a44f4bcd4234b997b51ec16493f5:
+      title: 'The Condensed Essence: A Daily Practice of the Wrathful Guru Takhyung
+        Barwa'
+      parent: Takhyung Barwa
+    ada0289b54c244e8a73ebec7651755ba:
+      title: A Sādhana of Tārā Sarasvatī
+      parent: Tārā
+    a681dcd7958a4330a4452d118ea360f7:
+      title: 'Adornment of Lord Nāgārjuna’s Wisdom Mind: The Fourfold Maṇḍala Offering
+        to Tārā'
+      parent: Tārā
+    de7d0a7051cf414b8fef3fa71fda77e3:
+      title: 'Transference: Enlightenment Without Meditation (root text)'
+      parent: Transference (Phowa)
+    6d80073bd3604fef8232ed59836f85b5:
+      title: 'Transference: Enlightenment Without Meditation (Compilation)'
+      parent: Transference (Phowa)
+    cec7c75fc2dc4b92971a75e659b1e03e:
+      title: Notes on the Heart-Essence Practices of the Channels and Wind-Energies
+      parent: Tsa Lung
+    700110a426914337859c8120e8df27e4:
+      title: 'Song and Dance to Delight the Ḍākas and Ḍākinīs: An Aspiration for the
+        Sixfold Satisfaction of the Maṇḍala of the Feast-Gathering'
+      parent: Tsok
+    1291cd62377d4e05aea93466644e6267:
+      title: 'The Vajra Verses: A Prayer of the Fierce Inner Heat'
+      parent: Tummo
+    7bac4e517cc54c0abbcd6a6161c1aa82:
+      title: 'Cultivating the Pure Realm of Manifest Joy: A Guru Yoga of Vajrasattva'
+      parent: Vajrasattva
+    5d72cd8d0ca54d9ebbb71ce0512b0710:
+      title: 'Lamp That Illuminates the Excellent Path of Great Bliss: A Guide to
+        the Practice Text of the Female Awareness-Holder, the Queen of Great Bliss'
+      parent: Yumka Dechen Gyalmo
+    cd8908bdb7874859a0ff3de0ded3ea50:
+      title: 'Words of the Vajra Queen: An Essential Daily Practice of the Vidyādharas’
+        Female Practice'
+      parent: Yumka Dechen Gyalmo
+    83c14f9f5e9441a6a7157a918ab6189c:
+      title: Yumka Fulfilment Practice
+      parent: Yumka Dechen Gyalmo
+    a82f133078804083b570e1e87a528026:
+      title: 'The Lotus Garland: A Short Feast-Offering for the Female Practice of
+        the Heart Essence of the Vast Expanse'
+      parent: Yumka Dechen Gyalmo
+    24aff1d04c42436ab510a317dc57aed2:
+      title: 'The Cascading Essence of Great Bliss: An Empowerment Ritual for the
+        Female Practice of the Queen of Great Bliss, from the Heart Essence of the
+        Vast Expanse'
+      parent: Yumka Dechen Gyalmo
+    e0b67c3f093a4845a3c6888821451e58:
+      title: 'A Glorious Garland of the Two Accomplishments: An Abridged Feast-Offering
+        for the Female Practice of the Ḍākinī'
+      parent: Yumka Dechen Gyalmo
+    fcf681b82d5f4ba8b37bff9b0d63d74d:
+      title: A Glorious Garland of Great Bliss, the Root Sādhana of the Queen of Great
+        Bliss, Yumka Tsogyal, from the Heart Essence of the Vast Expanse
+      parent: Yumka Dechen Gyalmo
+    1274fd6d15d046ce973df41871733500:
+      title: A Ritual of Blessing and Empowerment for the Female Practice, from the
+        Heart Essence of the Vast Expanse
+      parent: Yumka Dechen Gyalmo
+    588ff70ecc0b4513a1d559ae76b6a23b:
+      title: Confession and Fulfilment Insert for Accumulating the Practice of Turning
+        Back the Summons of the Ḍākinīs
+      parent: Yumka Dechen Gyalmo
+    9e4fd01209874523b10f59bfe1efa604:
+      title: 'Elucidating the Body Maṇḍala: Clarifications on the Recitation Manual
+        of the Female Practice of the Queen of Great Bliss'
+      parent: Yumka Dechen Gyalmo
+    06145b8f90444163aaf2110ef2a7ceda:
+      title: 'Illuminating the Meaning of Empowerment: A Self-Initiation for the Female
+        Practice of the Ḍākinī'
+      parent: Yumka Dechen Gyalmo
+    2e6f055e82fb40a4ad35281bf6769ce5:
+      title: Main Recitation Manual for the Female Practice of the Queen of Great
+        Bliss
+      parent: Yumka Dechen Gyalmo
+    9f452ef48a2d4c5ab35d40e7410638e6:
+      title: 'Rain of Accomplishments: A Concise Fulfilment Practice for the Female
+        Awareness-Holder (Yumka)'
+      parent: Yumka Dechen Gyalmo
+    78e908b6295749d4b6e4ac2c3dca70a5:
+      title: The History of the Female Practice of the Queen of Great Bliss
+      parent: Yumka Dechen Gyalmo
+    38e091f8106a4a3db94d5fa0bee5568d:
+      title: 'The Treasury of the Four Activities: A Fire Offering to Yumka'
+      parent: Yumka Dechen Gyalmo
+created_at: '2022-03-01T04:26:19.178375'
+last_modified_at: '2022-03-01T04:26:19.178378'
